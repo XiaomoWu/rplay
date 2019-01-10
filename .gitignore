@@ -328,3 +328,14 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+*.Rdata
+/02-MergeHedgeFund/最终结果-csv
+*.csv
+*.xlsx
+*.docx
+/06-QuantTrade/train model
+/06-QuantTrade/help coding
+*.7z
+*.zip
+*.pdf
+*.TXT
